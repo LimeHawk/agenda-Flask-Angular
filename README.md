@@ -23,8 +23,8 @@ Para rodar a API siga os seguintes passos
 <h3>Prerequisites</h3>
 
 
-- [PYTHON]
-- [FLASK]
+- [PYTHON](https://www.python.org/downloads/)
+- [FLASK](https://flask.palletsprojects.com/en/2.3.x/)
 
 <h3>Cloning</h3>
 
@@ -114,7 +114,7 @@ Special thank you for all people that contributed for this project.
 
 Apenas seguir os passos abaixo para contribuir, será de enorme ajuda
 
-1. `git clone https://github.com/Fernanda-Kipper/text-editor.git`
+1. `git clone https://github.com/LimeHawk/agenda-Flask-Angular.git`
 2. `git checkout -b feature/NAME`
 3. Follow commit patterns
 4. Open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
